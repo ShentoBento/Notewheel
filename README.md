@@ -93,4 +93,4 @@ in-app purchases, this policy will be updated here first, with a new effective d
 
 ## Contact
 
-Questions about this policy or about Notewheel's privacy: **[your contact email]**
+Questions about this policy or about Notewheel's privacy: **andrewrs1334@gmail.com**
